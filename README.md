@@ -1,2 +1,2 @@
 # python
-o
+import numpy as np
